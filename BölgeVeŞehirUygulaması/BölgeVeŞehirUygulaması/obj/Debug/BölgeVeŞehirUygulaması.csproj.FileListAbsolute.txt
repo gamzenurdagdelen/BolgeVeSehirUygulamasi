@@ -1,0 +1,12 @@
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.csproj.AssemblyReference.cache
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.MainForm.resources
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.Properties.Resources.resources
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.csproj.GenerateResource.cache
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\bin\Debug\BölgeVeŞehirUygulaması.exe.config
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\bin\Debug\BölgeVeŞehirUygulaması.exe
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\bin\Debug\BölgeVeŞehirUygulaması.pdb
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.exe
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.pdb
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.ŞehirleriListeleForm.resources
+C:\Users\info\source\repos\BölgeVeŞehirUygulaması\BölgeVeŞehirUygulaması\obj\Debug\BölgeVeŞehirUygulaması.BölgeleriListeleForm.resources
